@@ -1,0 +1,6 @@
+[package]
+name = "final_project"
+version = "0.1.0"
+authors = ["just_an_ordinary_pkmn_trainer"]
+
+[dependencies]
