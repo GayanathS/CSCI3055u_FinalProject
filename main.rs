@@ -2,7 +2,7 @@
 fn main() {
    
 
-    let mut strings = ["Bob", "Cat", "Dog", "Freind"];
+    let mut strings = ["Tim", "Cat", "Dog", "Fred"];
     println!("Before: {:?}", strings);
 
     quick_sort(&mut strings, &|x,y| x < y);
